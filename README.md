@@ -11,7 +11,6 @@
 - **Mood Indicator:** Header bar khusus yang menampilkan emosi dominan saat ini.
 
 ## 💻 Spesifikasi Sistem (Tested On)
-- **Device:** LENOVO (Intel Core i5-12450HX, 12GB RAM, RTX 2050)
 - **OS:** Windows 11
 - **Python Version:** 3.12.x (Sangat disarankan dibanding 3.13)
 
